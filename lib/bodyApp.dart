@@ -30,6 +30,7 @@ class _MyAppState extends State<BodyApp> {
               fontSize: 50,
               fontWeight: FontWeight.bold,
               fontStyle: FontStyle.italic,
+            color: Colors.green[50],
               ),),
       distance(),
 
@@ -39,7 +40,7 @@ class _MyAppState extends State<BodyApp> {
               fontSize: 50,
               fontWeight: FontWeight.bold,
               fontStyle: FontStyle.italic,
-              color: Colors.red),
+             color: Colors.green[50],),
         ),  distance(),
 
         Row(
